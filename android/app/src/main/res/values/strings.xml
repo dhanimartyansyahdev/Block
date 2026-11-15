@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block Muddle</string>
+    <string name="title_logo">BLOCK MUDDLE</string>
+    <string name="title_subtitle">8×8 Tactile Block Puzzle</string>
+    <string name="label_high_score">BEST SCORE</string>
+    <string name="label_score">SCORE</string>
+    <string name="label_best">BEST</string>
+    <string name="action_play">PLAY</string>
+    <string name="action_continue">CONTINUE</string>
+    <string name="action_new_game">NEW GAME</string>
+    <string name="action_reroll">REROLL AD</string>
+    <string name="action_pause">PAUSE</string>
+    <string name="action_resume">RESUME</string>
+    <string name="action_restart">RESTART</string>
+    <string name="action_home">MAIN MENU</string>
+    <string name="action_revive_ad">REVIVE (WATCH AD)</string>
+    <string name="action_play_again">PLAY AGAIN</string>
+    <string name="title_paused">GAME PAUSED</string>
+    <string name="title_game_over">NO MORE MOVES</string>
+    <string name="badge_new_high_score">NEW HIGH SCORE!</string>
+    <string name="sound_on">SOUND: ON</string>
+    <string name="sound_off">SOUND: OFF</string>
+    <string name="haptics_on">VIBRATE: ON</string>
+    <string name="haptics_off">VIBRATE: OFF</string>
+    <string name="combo_badge">STREAK x%1$d</string>
+    <string name="toast_no_ad_ready">No Ad Ready</string>
+</resources>

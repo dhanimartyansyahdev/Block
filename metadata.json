@@ -1,0 +1,8 @@
+{
+  "name": "Block Muddle",
+  "description": "Tactile 8x8 polyomino block puzzle game with 60 FPS 2D Canvas rendering, combo streaks, smart spawning, and production Android Studio Kotlin source.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
